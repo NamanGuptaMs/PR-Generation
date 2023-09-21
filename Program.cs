@@ -12,7 +12,7 @@
         {
             try
             {
-                var personalaccesstoken = "mczyxkjhf6edmiu2kl2hpdhq6xdlxkmzbliwqggdt43zzmo7gfpq";
+                var personalaccesstoken = "PAT_TOKEN";
 
                 using (HttpClient client = new HttpClient())
                 {
